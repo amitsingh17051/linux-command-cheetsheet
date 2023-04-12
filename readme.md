@@ -1,1 +1,1 @@
-# Cheet Sheet For All Linux Command for daily use
+# Cheet Sheet For All Linux Command For Daily Use
