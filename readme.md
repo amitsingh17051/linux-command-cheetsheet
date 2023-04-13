@@ -2,6 +2,31 @@
 
 
 ## Linux Commands List
+- [Hardware Information](#hardware-information)
+- [Searching](#searching)
+- [File Commands](#file-commands)
+- [Directory Navigation](#directory-navigation)
+- [File Compression](#file-compression)
+- [File Transfer](#file-transfer)
+- [Users And groups](#users-and-groups)
+- [Package-Installation](#package-installation)
+- [Process Related](#process-related)
+- [System Management and Information](#system-management-and-information)
+- [Disk Usage](#disk-usage)
+- [Ssh Login](#ssh-login)
+- [File Permission](#file-permission)
+- [Network](#network)
+- [Variables](#variables)
+- [Shell Command Management](#shell-command-management)
+- [Linux Keyboard Shortcuts](#linux-keyboard-shortcuts)
+
+
+
+
+
+
+
+
 
 ### Hardware Information
 
